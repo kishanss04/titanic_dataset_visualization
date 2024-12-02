@@ -36,7 +36,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** and creat
 ## Setup  
 1. Clone this repository:  
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/kishanss04/titanic_dataset_visualization.git
    cd titanic_eda.py
 
    ```
