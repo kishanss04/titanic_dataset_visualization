@@ -44,4 +44,16 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** and creat
    ```bash
    pip install pandas matplotlib seaborn numpy
    ```
-3. Run the Jupyter Notebook or Python script to explore the visualizations.
+3. Run the program
+   ```bash
+   python titanic_eda.py
+   ```
+## Troubleshooting
+If you encounter any issues while running the project, feel free to leave a comment on the GitHub repository, or you can contact me directly at:
+
+Email: kishanss1804@gmail.com
+GitHub: kishanss04
+
+## License
+This project is licensed under the MIT License.
+
